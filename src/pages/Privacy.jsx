@@ -131,7 +131,7 @@ function Privacy() {
             Questions about this Privacy Policy or data practices:
           </p>
           <p>
-            <strong>Email:</strong> <a href="mailto:support@techworkspace.app">support@techworkspace.app</a>
+            <strong>Email:</strong> <a href="mailto:vladislavpshenyanik@gmail.com">vladislavpshenyanik@gmail.com</a>
           </p>
         </div>
       </div>
