@@ -11,7 +11,7 @@ function Footer() {
           <Link to="/support">Support</Link>
         </div>
         <div className="footer-contact">
-          <a href="mailto:support@techworkspace.app">support@techworkspace.app</a>
+          <a href="mailto:vladislavpshenyanik@gmail.com">vladislavpshenyanik@gmail.com</a>
         </div>
         <div className="footer-bottom">
           <p>&copy; {new Date().getFullYear()} TechWorkSpace</p>

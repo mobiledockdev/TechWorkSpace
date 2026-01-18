@@ -10,7 +10,7 @@ function Support() {
             For support with TechWorkSpace, contact:
           </p>
           <p className="contact-email">
-            <strong>Email:</strong> <a href="mailto:support@techworkspace.app">support@techworkspace.app</a>
+            <strong>Email:</strong> <a href="mailto:vladislavpshenyanik@gmail.com">vladislavpshenyanik@gmail.com</a>
           </p>
         </div>
 
